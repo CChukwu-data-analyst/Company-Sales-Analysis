@@ -96,3 +96,4 @@ I have to remove all missing values and zeros from Tuesday to Friday columns bec
 1. SQL for beginners
 2. Stack Overflow
 
+😄
