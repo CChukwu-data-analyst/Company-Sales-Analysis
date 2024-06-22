@@ -5,7 +5,21 @@ Sales Aanalysis
 
 - [Project Overview](#project-overview)
 
+- [Data Source](#data-source)
+
+- [Tools](#tools)
+
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
+- [Results / Findings](#resultsfindings)
+
 - [Recommendations](#recommendations)
+
+- [Limitations](#limitations)
+
+- [References](#references)
 
 ### Project Overview
 
@@ -23,7 +37,7 @@ Sales data: The primary dataset used for this analysis is the â€œSales_data.csvâ
    - [Download here](https://enhtechsoftware.com)
 - PowerBI - Creating Reporting
 
-### Data Cleaning / Preparation
+### Data Cleaning/Preparation
 
   In the initial data preparation phase, I performed the following tasks:
 
@@ -54,7 +68,7 @@ get_sales = 'select * from sales'
 sales_df = pd.read_sql(get_sales, conn)
 ```
 
-### Results / Findings
+### Results/Findings
 
 The following are the summary of the analysis:
 
