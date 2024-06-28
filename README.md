@@ -50,7 +50,7 @@ Sales data: The primary dataset used for this analysis is the â€œSales_data.csvâ
 
 ### Exploratory Data Analysis
 
-EDA involves exploring the sales data to answer important business questions such as:
+EDA involves exploring the sales data to answer important or critical business questions such as:
 
 -	What is the overall sales trend?
 -	Which products are top sellers? 
